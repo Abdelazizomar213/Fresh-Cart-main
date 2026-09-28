@@ -61,7 +61,7 @@ export default function Footer() {
                         <ul className="space-y-4">
                             <li className="flex items-start gap-3">
                                 <i className="fa-solid fa-location-dot mt-1 text-emerald-500"></i>
-                                <span className="text-zinc-400">Tanta, Egypt</span>
+                                <span className="text-zinc-400">Minya, Egypt</span>
                             </li>
                             <li className="flex items-center gap-3">
                                 <i className="fa-solid fa-phone text-emerald-500"></i>
